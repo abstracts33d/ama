@@ -3,7 +3,7 @@
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
 
-See my [favorite/popular/frequently asked](https://github.com/abstracts33d/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/abstracts33d/ama/labels) to sort the questions by ([work in progress](https://github.com/abstracts33d/ama/issues/424)).
+See my [favorite/popular/frequently asked](https://github.com/abstracts33d/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/abstracts33d/ama/labels) to sort the questions.  
 
 I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
 
